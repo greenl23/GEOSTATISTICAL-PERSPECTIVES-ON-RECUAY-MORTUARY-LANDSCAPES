@@ -1,0 +1,11 @@
+ID,Site_Name,Special,Longitiude_E,Latitude_N,Location,Altitude_MASL,Era,Culture,Date_Start,Date_End,NonGrave_Structure,Grave_Type,Number_Chullpa,Number_Cave,Number_Chamber,Number_Platform,Burials,Ceramic,Ceramic_Type,MNI,Adult_Male,Adult_Female,Adule_Indeterminate,Total_Adult,Total_Subadult,Total_Infant
+1,PAn5_34,Ama,216267.6,8956527.76,"216267.6,8956527.76",3534,RE,Recuay,500,650,Mound,Chamber,0,0,4,0,YES,YES,Moche,18,7,5,2,14,4,0
+2,PAn5_35,Quitapampa A,215958.68,8956650.29,"215958.68,8956650.29",3571,RE,Recuay,500,650,None,Chamber,0,0,1,0,NO,YES,Kaolin,0,0,0,0,0,0,0
+3,PAn5_42,Quitapampa B,215921.39,8956700.02,"215921.39,8956700.02",3565,RE,Recuay,500,650,Roadway,Chamber,0,0,3,0,NO,YES,Moche,0,0,0,0,0,0,0
+4,Pan5_50,Quitapampa C,215922.62,8956692,"215922.62,8956692",3566,LR,Recuay,700,1000,Terrace,Chamber,0,0,3,0,NO,YES,Recuay,0,0,0,0,0,0,0
+5,PAn5_49,Ama II A,215944.11,8956785.85,"215944.11,8956785.85",3534,RE,Recuay,200,500,Terrace,Cave,0,1,0,0,YES,NO,Plain,1,1,0,0,1,0,0
+6,PAn5_49,Ama II B,215949.84,8956790.19,"215949.84,8956790.19",3532,RE,Recuay,500,650,Terrace,Chamber,0,0,1,0,YES,YES,Kaolin,9,4,2,1,7,1,0
+7,PAn5_49,Ama II D,215932.23,8956773.01,"215932.23,8956773.01",3525,PR,Post_Recuay,1000,1470,Roadway,Chamber,0,0,2,0,YES,YES,Post_Recuay,6,4,1,0,5,1,0
+8,PAn5_38,Horno Jirca,216313.28,8957692.64,"8957692.64,216313.28",3319,RE,Recuay,200,500,None,Chamber,0,0,3,0,YES,YES,Kaolin,8,3,2,1,6,2,0
+9,PAn5_43,Cochapampa,216345.78,8957488.78,"216345.78,8957488.78",3357,LR,Recuay,700,1000,None,Chamber,0,0,4,0,YES,YES,Recuay,88,0,2,9,11,6,71
+10,PAn5_64,Marca Jirka,224527.25,8946993.89,"224527.25,8946993.89",3276,RE,Recuay,500,650,Domestic,Chamber,0,0,6,0,YES,YES,Kaolin,8,0,0,2,2,3,3
