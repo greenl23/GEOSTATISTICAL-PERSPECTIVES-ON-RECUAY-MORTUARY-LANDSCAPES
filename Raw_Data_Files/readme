@@ -1,0 +1,7 @@
+
+A filie which contains all of the raw data sheets used in the thesis.
+
+Files with NAME_PROJECT are the first datasets organized by author.
+
+The DatasetRecuay_Cleaned is the version with all four data sources together.
+    This data was first cleaned in OPENREFINE and then used for statistical analysis.
